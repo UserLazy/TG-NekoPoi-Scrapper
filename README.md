@@ -1,8 +1,8 @@
-# Nekopoi Scrape
+## Telegram Nekopoi Scrape
 
 Scrape [Nekopoi](https://nekopoi.care) dengan **Beautifulsoup4** dan **Pypeteer** menggunakan bahasa python
 
-# Routes
+## Routes
 `/newEpisodes` = Rute untuk episode terbaru dari nekopoi.
 
 `/search/<anime_name>` = Mencari anime dari nekopoi.
@@ -15,11 +15,11 @@ Scrape [Nekopoi](https://nekopoi.care) dengan **Beautifulsoup4** dan **Pypeteer*
 
 `/3d-hentai` = List 3D Hentai
 
-# Plan
+## Plan
 
 - Scrape beberapa link dari website nekopoi.
 - Memasukannya ke dalam route.
 
-Thank You :)
+## Thank You :)
 [UserLazy](github.com/userlazy)
 [UserLazy Project](t.me/userlazyxbot)
