@@ -19,3 +19,7 @@ Scrape [Nekopoi](https://nekopoi.care) dengan **Beautifulsoup4** dan **Pypeteer*
 
 - Scrape beberapa link dari website nekopoi.
 - Memasukannya ke dalam route.
+
+Thank You :)
+[UserLazy](github.com/userlazy)
+[UserLazy Project](t.me/userlazyxbot)
